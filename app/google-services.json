@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "670912054380",
+    "firebase_url": "https://winkel-14a61-default-rtdb.firebaseio.com",
+    "project_id": "winkel-14a61",
+    "storage_bucket": "winkel-14a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670912054380:android:0961ccb41db4d985a6c449",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670912054380-qvodvo633tqgnpv9ebo5h420jcr76m0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZKtwd1NerfWIP4swnookI2NijR2egEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670912054380-qvodvo633tqgnpv9ebo5h420jcr76m0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670912054380:android:c12765c1646acc1fa6c449",
+        "android_client_info": {
+          "package_name": "com.example.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670912054380-qvodvo633tqgnpv9ebo5h420jcr76m0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZKtwd1NerfWIP4swnookI2NijR2egEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670912054380-qvodvo633tqgnpv9ebo5h420jcr76m0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670912054380:android:81e735088922509ea6c449",
+        "android_client_info": {
+          "package_name": "com.example.winkel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670912054380-qvodvo633tqgnpv9ebo5h420jcr76m0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZKtwd1NerfWIP4swnookI2NijR2egEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670912054380-qvodvo633tqgnpv9ebo5h420jcr76m0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

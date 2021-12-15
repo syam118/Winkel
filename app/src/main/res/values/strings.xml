@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">winkel</string>
+    <string name="contact_us">Contact us</string>
+    <string name="syam_9963604028">Syam - 9963604028</string>
+    <string name="monica_7663962144">Monica - 7663962144</string>
+    <string name="harika_8317560336">Harika - 8317560336</string>
+    <string name="title_activity_location">Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="Compass_dail" translatable="false">Compass Dail</string>
+    <string name="Compass_hands" translatable="false">Compass Hands</string>
+    <string name="sotw_north">N</string>
+    <string name="sotw_east">E</string>
+    <string name="sotw_south">S</string>
+    <string name="sotw_west">W</string>
+    <string name="sotw_northeast">NE</string>
+    <string name="sotw_northwest">NW</string>
+    <string name="sotw_southeast">SE</string>
+    <string name="sotw_southwest">SW</string>
+</resources>
